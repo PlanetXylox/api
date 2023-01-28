@@ -10,7 +10,7 @@ Returns:
 ```
 {
 "total_users": INT,
-"ataff_users": INT,
+"staff_users": INT,
 "verified_users": INT,
 "unverified_users": INT,
 "banned_users": INT,
